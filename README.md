@@ -7,3 +7,6 @@ This app is a PWA (Progressive Web Application) that features data persistance a
 
 https://github.com/prvapalacinka/PWA-text-editor
 
+https://pv-pwa-texteditor-app.herokuapp.com/
+
+https://git.heroku.com/pv-pwa-texteditor-app.git
